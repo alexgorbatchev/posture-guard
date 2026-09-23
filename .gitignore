@@ -1,0 +1,12 @@
+# Compiled binaries
+/bin/
+
+# Test binaries and coverage profiles
+*.test
+*.out
+*.prof
+
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
