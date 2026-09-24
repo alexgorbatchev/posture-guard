@@ -1,3 +1,5 @@
+> Rewritten in Go from the original Python project [`posture-guard`](https://github.com/MatheusDSantossi/posture-guard) by [Matheus D. Santos](https://github.com/MatheusDSantossi).
+
 `posture-guard` is a lightweight, real-time posture monitoring tool that runs silently in the background and alerts you when you start slouching, hunching, tilting your head, or straining your neck. All video frame processing is computed locally on your machine with zero cloud connectivity, zero recording, and zero tracking.
 
 # What It Does
